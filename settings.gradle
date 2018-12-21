@@ -1,0 +1,1 @@
+include ':app', ':lastday', ':recycleviewdemo', ':gaodemap', ':myapplication123'
